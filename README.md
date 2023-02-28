@@ -1,2 +1,2 @@
-# CodingDojoProject1
-First Portfolio project for Coding Dojo
+# Sales Prediction
+First Portfolio project for Coding Dojo. Predicting sales 
