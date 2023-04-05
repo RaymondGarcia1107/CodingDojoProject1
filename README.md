@@ -11,3 +11,16 @@ The dataset included 8523 rows and 12 columns.
 
 ## Data Dictionary
 
+![Alt text](DataDictionary.png "Data Dictionary")
+
+## Methods
+
+I first started with data cleaning, Exploratory Data Analysis, Explanatory Data Analysis, and then Modeling
+
+### Exploratory Data Analysis
+
+```
+While Exploring the data, a Correlation heatmap was drawn to understand the relationship between the numerical features. Histograms and Boxplots were also drawn on the numerical columns, while Bar Charts were drawn for the categorical data.
+I found that Item MRP had the strongest correlation with Item Outlet Sales, our target.
+```
+
